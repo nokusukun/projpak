@@ -88,18 +88,3 @@ This project is licensed under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests with improvements.
-
-## Author
-
-Developed by [Your Name](https://github.com/nokusukun).
-
-```
-
-### Key Points in the README:
-
-- **Installation**: Provides instructions on how to install the utility using `go install`.
-- **Usage**: Describes how to use the `flatten` and `reconstruct` commands with examples.
-- **File Format**: Explains the format used for the flattened files.
-- **Contribution and License**: Basic information for potential contributors.
-
-Make sure to replace placeholders like `github.com/nokusukun/projpak` and `[Your Name](https://github.com/nokusukun)` with your actual information. Let me know if you need any more changes!
